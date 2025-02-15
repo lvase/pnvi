@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://txlhw6hdbpcp"
+path="res://.godot/imported/treasure chest.obj-8c8adfc0fd211b3ffd0fd7b5d617b108.mesh"
+
+[deps]
+
+files=["res://.godot/imported/treasure chest.obj-8c8adfc0fd211b3ffd0fd7b5d617b108.mesh"]
+
+source_file="res://assets/models/obj/treasure chest.obj"
+dest_files=["res://.godot/imported/treasure chest.obj-8c8adfc0fd211b3ffd0fd7b5d617b108.mesh", "res://.godot/imported/treasure chest.obj-8c8adfc0fd211b3ffd0fd7b5d617b108.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

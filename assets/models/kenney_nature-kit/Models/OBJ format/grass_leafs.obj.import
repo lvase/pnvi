@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://cuua0reg3rm4t"
+path="res://.godot/imported/grass_leafs.obj-d79ba62aca6bd1a3d716d7791637eeca.mesh"
+
+[deps]
+
+files=["res://.godot/imported/grass_leafs.obj-d79ba62aca6bd1a3d716d7791637eeca.mesh"]
+
+source_file="res://assets/models/kenney_nature-kit/Models/OBJ format/grass_leafs.obj"
+dest_files=["res://.godot/imported/grass_leafs.obj-d79ba62aca6bd1a3d716d7791637eeca.mesh", "res://.godot/imported/grass_leafs.obj-d79ba62aca6bd1a3d716d7791637eeca.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

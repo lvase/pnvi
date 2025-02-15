@@ -1,0 +1,16 @@
+[gd_scene load_steps=4 format=3 uid="uid://c87afq04qy75u"]
+
+[ext_resource type="Script" path="res://treasure_chest.gd" id="1_36nnu"]
+[ext_resource type="PackedScene" uid="uid://yt6hl4pbost8" path="res://assets/models/obj/treasure_chest_final.glb" id="1_clurg"]
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_ik5io"]
+
+[node name="chest" type="Area3D"]
+transform = Transform3D(0.838812, 0, 0, 0, 0.804019, 0, 0, 0, 0.950362, 0, 0, 0)
+script = ExtResource("1_36nnu")
+
+[node name="AuxScene" parent="." instance=ExtResource("1_clurg")]
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="."]
+transform = Transform3D(0.736253, 0, 0, 0, 0.63046, 0, 0, 0, 0.800385, 0, 0, 0)
+shape = SubResource("BoxShape3D_ik5io")

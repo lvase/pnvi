@@ -1,0 +1,25 @@
+[gd_scene load_steps=2 format=3 uid="uid://bt58r8bv5qo45"]
+
+[ext_resource type="PackedScene" uid="uid://csdryt5yd1ua0" path="res://assets/models/dancing_cartoon_guy.fbx" id="1_kr55v"]
+
+[node name="dancing_cartoon_guy" instance=ExtResource("1_kr55v")]
+
+[node name="Circle_001" parent="rig/Skeleton3D" index="0"]
+transform = Transform3D(0.042285, -0.00306956, 0.0972702, 0.0973097, -9.55029e-05, -0.0423052, 0.00131138, 0.106064, 0.00277697, 0.0021175, 0.00204278, 0.0334666)
+bone_idx = 148
+
+[node name="Cube_002" parent="rig/Skeleton3D" index="1"]
+transform = Transform3D(0.939381, -0.34287, 0.0016501, 0.342664, 0.938963, 0.030468, -0.011996, -0.0280556, 0.999534, 0.000276859, -0.000494054, 0.0323858)
+bone_idx = 149
+
+[node name="Cube_003" parent="rig/Skeleton3D" index="2"]
+transform = Transform3D(0.939381, -0.34287, 0.0016501, 0.342664, 0.938963, 0.030468, -0.011996, -0.0280556, 0.999534, 0.000276859, -0.000494054, 0.0323858)
+bone_idx = 150
+
+[node name="Cube_004" parent="rig/Skeleton3D" index="3"]
+transform = Transform3D(0.0823488, 0.00118369, -0.000902257, -0.00374842, 0.0254855, 0.00099673, 0.00249752, -0.00077881, 0.0312453, -0.000221647, -0.00265496, 0.0347475)
+bone_idx = 151
+
+[node name="Sphere" parent="rig/Skeleton3D" index="4"]
+transform = Transform3D(0.0385524, -0.0140715, 6.77201e-05, 0.014063, 0.0385353, 0.00125041, -0.000492316, -0.00115141, 0.0410211, 0.00103241, -0.00255959, 0.0324473)
+bone_idx = 152

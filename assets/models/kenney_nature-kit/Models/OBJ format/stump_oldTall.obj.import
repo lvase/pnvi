@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://dqq5my7pnk4jc"
+path="res://.godot/imported/stump_oldTall.obj-5ae0c938e361e00992c55a07f83ce516.mesh"
+
+[deps]
+
+files=["res://.godot/imported/stump_oldTall.obj-5ae0c938e361e00992c55a07f83ce516.mesh"]
+
+source_file="res://assets/models/kenney_nature-kit/Models/OBJ format/stump_oldTall.obj"
+dest_files=["res://.godot/imported/stump_oldTall.obj-5ae0c938e361e00992c55a07f83ce516.mesh", "res://.godot/imported/stump_oldTall.obj-5ae0c938e361e00992c55a07f83ce516.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

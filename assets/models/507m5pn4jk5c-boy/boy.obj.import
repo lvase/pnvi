@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://g4be1o4ka1xf"
+path="res://.godot/imported/boy.obj-23bd235187a71d8420e19998d1ac203f.mesh"
+
+[deps]
+
+files=["res://.godot/imported/boy.obj-23bd235187a71d8420e19998d1ac203f.mesh"]
+
+source_file="res://assets/models/507m5pn4jk5c-boy/boy.obj"
+dest_files=["res://.godot/imported/boy.obj-23bd235187a71d8420e19998d1ac203f.mesh", "res://.godot/imported/boy.obj-23bd235187a71d8420e19998d1ac203f.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false
